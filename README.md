@@ -14,5 +14,4 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,github,vscode" /> <br /><br />
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=●●●&theme=★★★&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github.com/ryo-ma/github-profile-trophy" /> <br /><br />
